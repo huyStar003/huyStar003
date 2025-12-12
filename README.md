@@ -51,7 +51,7 @@ I am a passionate developer focusing on **Embedded Systems** and **Computer Visi
 - **Core Tech:** YOLOv11, Python.
 - **Function:** Real-time detection and classification of products on shelves.
 
-#### [Shift Management App (Upcoming)]()
+#### [Shift Management App (Upcoming)](https://github.com/huyStar003/ShilfFlow.git)
 > A comprehensive mobile solution for workforce management.
 - **Core Tech:** React Native, Expo Go, Firebase.
 - **Status:** *In Development / Research Phase*
@@ -59,7 +59,7 @@ I am a passionate developer focusing on **Embedded Systems** and **Computer Visi
 ---
 
 <div align="center">
-  <a href="mailto:your_email@example.com">
+  <a href="hoduckhuy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
