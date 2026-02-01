@@ -51,7 +51,7 @@ I am a final-year **Computer Engineering** student specializing in **AIoT (AI of
 <tr>
 <td width="50%">
 
-#### 1. 🌟 [Smart Shelf - AIoT System](https://github.com/huyStar003/Graduation-Project)
+#### 1. 🌟 [Smart Shelf - AIoT System]([https://github.com/huyStar003/Graduation-Project](https://github.com/huyStar003/Nhan_dien_SP.git))
 > **The Flagship Project**
 <br>
 An automated retail inventory system utilizing Edge AI for real-time tracking.
