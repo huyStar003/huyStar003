@@ -107,6 +107,7 @@ High-performance chat infrastructure with low-latency delivery.
 ### 📊 Continuous Integration
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyStar003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F1F1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyStar003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58A6FF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huyStar003&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyStar003&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </div>
